@@ -1,0 +1,14 @@
+C:\Users\feoso\ProyectoPersonas\bin\Debug\net8.0\ProyectoPersonas.exe
+C:\Users\feoso\ProyectoPersonas\bin\Debug\net8.0\ProyectoPersonas.deps.json
+C:\Users\feoso\ProyectoPersonas\bin\Debug\net8.0\ProyectoPersonas.runtimeconfig.json
+C:\Users\feoso\ProyectoPersonas\bin\Debug\net8.0\ProyectoPersonas.dll
+C:\Users\feoso\ProyectoPersonas\bin\Debug\net8.0\ProyectoPersonas.pdb
+C:\Users\feoso\ProyectoPersonas\obj\Debug\net8.0\ProyectoPersonas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\feoso\ProyectoPersonas\obj\Debug\net8.0\ProyectoPersonas.AssemblyInfoInputs.cache
+C:\Users\feoso\ProyectoPersonas\obj\Debug\net8.0\ProyectoPersonas.AssemblyInfo.cs
+C:\Users\feoso\ProyectoPersonas\obj\Debug\net8.0\ProyectoPersonas.csproj.CoreCompileInputs.cache
+C:\Users\feoso\ProyectoPersonas\obj\Debug\net8.0\ProyectoPersonas.dll
+C:\Users\feoso\ProyectoPersonas\obj\Debug\net8.0\refint\ProyectoPersonas.dll
+C:\Users\feoso\ProyectoPersonas\obj\Debug\net8.0\ProyectoPersonas.pdb
+C:\Users\feoso\ProyectoPersonas\obj\Debug\net8.0\ProyectoPersonas.genruntimeconfig.cache
+C:\Users\feoso\ProyectoPersonas\obj\Debug\net8.0\ref\ProyectoPersonas.dll
